@@ -60,6 +60,21 @@ node.default["sublime_text_packages"] = [
         "name"   => "CodeIntel",
         "source" => "https://github.com/SublimeCodeIntel/SublimeCodeIntel.git",
         "branch" => "master"
+    },
+    {
+        "name"   => "SublimeLinter",
+        "source" => "https://github.com/SublimeLinter/SublimeLinter3.git",
+        "branch" => "master"
+    },
+    {
+        "name"   => "SublimeLinter-jscs",
+        "source" => "https://github.com/SublimeLinter/SublimeLinter-jscs.git",
+        "branch" => "master"
+    },
+    {
+        "name"   => "SublimeLinter-jshint",
+        "source" => "https://github.com/SublimeLinter/SublimeLinter-jshint.git",
+        "branch" => "master"
     }
 ]
 
