@@ -114,7 +114,7 @@ node.default['sublime_text']['preferences'] = {}.tap do |prefs|
     ]
     prefs["remember_open_files"] = true
     prefs["save_on_focus_lost"] = true
-    prefs["tab_size"] = 4
+    prefs["tab_size"] = 2
     prefs["translate_tabs_to_spaces"] = true
     prefs["trim_trailing_white_space_on_save"] = true
     prefs["line_padding_bottom"] = 3
